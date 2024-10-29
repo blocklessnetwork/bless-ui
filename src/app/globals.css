@@ -25,3 +25,14 @@ body {
 		text-wrap: balance;
 	}
 }
+
+@font-face {
+	font-family: 'TelkaTRIAL';
+	src: url('./fonts/TelkaTRIAL-Extended-Regular.woff') format('woff');
+	font-weight: normal;
+  font-style: normal;
+}
+
+.font-main {
+	font-family: 'TelkaTRIAL', sans-serif;
+}
