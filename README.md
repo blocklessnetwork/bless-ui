@@ -1,3 +1,3 @@
-# Bless UI 
+# Bless UI
 
 A REACT UI component library.

@@ -12,6 +12,13 @@ const config: Config = {
 				background: 'var(--background)',
 				foreground: 'var(--foreground)'
 			}
+		},
+		colors: {
+			green: '#C9FCC0',
+			'light-gray': '#CCCAC0',
+			slate: '#F5F5F5',
+			cement: '#AEB3B7',
+			charcoal: '#292D2A'
 		}
 	},
 	plugins: []
