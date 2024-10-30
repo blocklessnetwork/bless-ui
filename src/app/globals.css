@@ -126,7 +126,18 @@ a {
 	text-underline-offset: 2px;
 
 	&:hover {
-		opacity: .5;
+		opacity: 0.5;
 	}
 }
 
+.parent {
+	width: 100%;
+}
+
+input,
+select,
+textarea {
+	box-sizing: border-box !important;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
