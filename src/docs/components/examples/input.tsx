@@ -9,7 +9,6 @@ const DemoInput = () => {
 			<Input placeholder="Email" type="email" />
 			<Input placeholder="Search" type="search" />
 		</>
-
 		/// [demo_input]
 	)
 }
